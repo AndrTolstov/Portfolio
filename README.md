@@ -1,3 +1,12 @@
+<center><h1>Yandex.Praktikum Data Analyst Projects</h1></center>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
+Репозиторий с портфолио проектов по Анализу данных, выполненных во время курсов обучения в Яндекс.Практикуме. Представлен в виде тетрадок Jupyter Notebook и пояснительных файлов README.<br>
+<br> 
+  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Сертификат о прохождении курса (русская версия)</b> :mortar_board: </a><br>
+    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (english version)</b> :mortar_board: </a>
+</p><br>
+  
 # Portfolio
 
 Здесь собраны некоторые реализованные проекты
