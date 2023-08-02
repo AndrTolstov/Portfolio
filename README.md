@@ -3,10 +3,10 @@
 <p align=center>
 Репозиторий с портфолио проектов по Анализу данных, выполненных во время курсов обучения в Яндекс.Практикуме. Представлен в виде тетрадок Jupyter Notebook и пояснительных файлов README.<br>
 <br> 
-  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Сертификат о прохождении курса (русская версия)</b> :mortar_board: </a><br>
+  <a href="https://github.com/AndrTolstov/Portfolio/blob/main/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B2%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_20232%D0%A6%D0%9F%D0%94%D0%9001247.pdf"><b>Сертификат о прохождении курса (русская версия)</b> :mortar_board: </a><br>
     <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (english version)</b> :mortar_board: </a>
-</p><br>
-  
+</p>
+
 # Portfolio
 
 Здесь собраны некоторые реализованные проекты
